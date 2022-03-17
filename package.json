@@ -41,7 +41,7 @@
     "dotenv": "^10.0.0",
     "dotenv-safe": "^8.2.0",
     "hardhat-contract-sizer": "^2.0.3",
-    "mocha": "^9.0.1",
+    "mocha": "^9.2.2",
     "prettier": "^2.3.2",
     "prettier-plugin-solidity": "^1.0.0-beta.13",
     "solidity-coverage": "^0.7.16",
